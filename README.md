@@ -16,8 +16,8 @@ di.Register(func() contract.User {
 // 绑定实例而非接口,并且同时依赖参数的注入，而注入的参数必须已经被注册
 di.Register(func(user contract.User) *service.User {
     return &service.User{
-		User:user
-	}
+        User:user
+    }
 })
 ```
 
