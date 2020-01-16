@@ -1,7 +1,7 @@
 # Golang容器注入API设计
 
 <a href="https://github.com/goapt/container/actions"><img src="https://github.com/goapt/container/workflows/container/badge.svg" alt="Build Status"></a>
-
+[![codecov](https://codecov.io/gh/goapt/container/branch/master/graph/badge.svg)](https://codecov.io/gh/goapt/container)
 
 ## API 设计
 
