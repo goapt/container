@@ -1,4 +1,8 @@
 # Golang容器注入API设计
+
+<a href="https://github.com/goapt/container/actions"><img src="https://github.com/goapt/container/workflows/gosql/badge.svg" alt="Build Status"></a>
+
+
 ## API 设计
 
 ### 注册容器
